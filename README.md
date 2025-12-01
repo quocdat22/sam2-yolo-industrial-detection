@@ -131,6 +131,6 @@ Ensure compliance with respective licenses for your use case.
 
 - **Project Inspiration & Concept**: The approach in this project is inspired by the innovative few-shot video labeling method shared by [vietnh1009](https://github.com/vietnh1009) in [this X/Twitter post](https://x.com/IlirAliu_/status/1993250285200818394). This concept demonstrates how SAM 2 can significantly reduce annotation time in computer vision workflows.
 
-- **Industrial Product Dataset**: Video source from [Taka Soyama](https://www.pexels.com/@takasoyama/) on Pexels - [Packaged Goods in Industrial Line](https://www.pexels.com/video/packaged-goods-in-industrial-line-6444196/). Special thanks for providing the raw footage used in this project demo.
+- **Industrial Product Dataset**: Video source from [Taka Soyama](https://www.pexels.com/@taka-soyama-4618245/) on Pexels - [Packaged Goods in Industrial Line](https://www.pexels.com/video/packaged-goods-in-industrial-line-6444196/). Special thanks for providing the raw footage used in this project demo.
 
 
