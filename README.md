@@ -8,7 +8,7 @@ This project combines two powerful AI models:
 - **SAM 2 (Segment Anything Model 2)**: Few-Shot video annotation with automatic object tracking
 - **YOLOv11**: Real-time industrial product detection
 
-### ⚡ The Game Changer: Few-Shot Annotation
+### The Game Changer: Few-Shot Annotation
 
 Traditional object detection requires **thousands of manual bounding box annotations** - a tedious and expensive process. This project revolutionizes that workflow:
 
@@ -102,17 +102,17 @@ Train different YOLO model variants using the auto-generated dataset.
 
 **Real-time Detection & Tracking Videos:**
 
-#### 🎯 Detection - Bounding Boxes
+#### Detection - Bounding Boxes
 Video displaying detection bounding boxes - YOLOv11 model detects industrial products with bounding boxes and confidence scores.
 
 https://github.com/user-attachments/assets/fd112ef1-342d-4998-b609-31af2f5c2664
 
-#### 📊 Counting & Tracking
+#### Counting & Tracking
 Video with object counting and tracking - monitor product quantities across frames and count total detected products.
 
 https://github.com/user-attachments/assets/c400e5e7-d652-4767-b8e3-a043d691ae5c
 
-## 📝 License
+## License
 
 This project uses:
 
@@ -120,10 +120,17 @@ Ensure compliance with respective licenses for your use case.
 
 
 
-## 🎓 References
+## References
 
 
-## 🙏 Acknowledgments
+- [YOLOv11 Documentation](https://docs.ultralytics.com/models/yolov11/)
+- [SAM 2: Segment Anything Model 2](https://github.com/facebookresearch/sam2)
+- [YOLO Format Specification](https://docs.ultralytics.com/datasets/detect/)
 
+## Acknowledgments
+
+- **Project Inspiration & Concept**: The approach in this project is inspired by the innovative few-shot video labeling method shared by [vietnh1009](https://github.com/vietnh1009) in [this X/Twitter post](https://x.com/IlirAliu_/status/1993250285200818394). This concept demonstrates how SAM 2 can significantly reduce annotation time in computer vision workflows.
+
+- **Industrial Product Dataset**: Video source from [Taka Soyama](https://www.pexels.com/@takasoyama/) on Pexels - [Packaged Goods in Industrial Line](https://www.pexels.com/video/packaged-goods-in-industrial-line-6444196/). Special thanks for providing the raw footage used in this project demo.
 
 
