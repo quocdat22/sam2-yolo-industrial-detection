@@ -105,18 +105,14 @@ Huấn luyện các biến thể mô hình YOLO khác nhau sử dụng tập d�
 #### 🎯 Phát Hiện - Bounding Boxes
 Video hiển thị bounding boxes phát hiện - mô hình YOLOv11 phát hiện sản phẩm công nghiệp với bounding boxes và điểm tin cậy.
 
-<video width="100%" controls>
-  <source src="assets/inference_detected.mp4" type="video/mp4">
-  Trình duyệt của bạn không hỗ trợ thẻ video.
-</video>
+📹 **[Xem: inference_detected.mp4](assets/inference_detected.mp4)** - Bấm để xem video trong trình duyệt
+
+---
 
 #### 📊 Đếm & Theo Dõi
 Video với đếm đối tượng và theo dõi - giám sát số lượng sản phẩm qua các frame và đếm tổng số sản phẩm được phát hiện.
 
-<video width="100%" controls>
-  <source src="assets/inference_counting_tracking.mp4" type="video/mp4">
-  Trình duyệt của bạn không hỗ trợ thẻ video.
-</video>
+📹 **[Xem: inference_counting_tracking.mp4](assets/inference_counting_tracking.mp4)** - Bấm để xem video trong trình duyệt
 
 ## 📝 Giấy Phép
 
@@ -137,6 +133,8 @@ Dự án này sử dụng:
 - [Định Dạng ONNX](https://onnx.ai/)
 
 ## 🙏 Lời Cảm Ơn
+
+- **Cảm Hứng & Khái Niệm Dự Án**: Cách tiếp cận của dự án này được lấy cảm hứng từ phương pháp gán nhãn video few-shot sáng tạo được chia sẻ bởi [vietnh1009](https://github.com/vietnh1009) trong [bài viết X/Twitter này](https://x.com/IlirAliu_/status/1993250285200818394). Khái niệm này chứng minh cách SAM 2 có thể giảm đáng kể thời gian gán nhãn trong quy trình thị giác máy tính.
 
 - **Tập Dữ Liệu Sản Phẩm Công Nghiệp**: Nguồn video từ [Taka Soyama](https://www.pexels.com/@takasoyama/) trên Pexels - [Packaged Goods in Industrial Line](https://www.pexels.com/video/packaged-goods-in-industrial-line-6444196/). Cảm ơn đặc biệt vì cung cấp footage thô được sử dụng trong bản trình diễn của dự án này.
 

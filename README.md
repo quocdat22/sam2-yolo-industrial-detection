@@ -105,38 +105,38 @@ Train different YOLO model variants using the auto-generated dataset.
 #### 🎯 Detection - Bounding Boxes
 Video displaying detection bounding boxes - YOLOv11 model detects industrial products with bounding boxes and confidence scores.
 
-<video width="100%" controls>
-  <source src="assets/inference_detected.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<p align="center">
+	<a href="assets/inference_detected.mp4">
+		<img src="https://img.shields.io/badge/▶_Watch_Detection_Demo-000000?style=for-the-badge&logo=video" alt="Watch Detection Demo"/>
+	</a>
+	<br><br>
+	<video src="assets/inference_detected.mp4" width="800" autoplay loop muted playsinline></video>
+</p>
+
 
 #### 📊 Counting & Tracking
 Video with object counting and tracking - monitor product quantities across frames and count total detected products.
 
-<video width="100%" controls>
-  <source src="assets/inference_counting_tracking.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<p align="center">
+	<a href="assets/inference_counting_tracking.mp4">
+		<img src="https://img.shields.io/badge/▶_Watch_Counting_Tracking_Demo-000000?style=for-the-badge&logo=video" alt="Watch Counting Tracking Demo"/>
+	</a>
+	<br><br>
+	<video src="assets/inference_counting_tracking.mp4" width="800" autoplay loop muted playsinline></video>
+</p>
 
 ## 📝 License
 
 This project uses:
-- **YOLOv11**: Ultralytics (AGPL-3.0)
-- **SAM 2**: Meta (Apache 2.0)
 
 Ensure compliance with respective licenses for your use case.
 
 
----
 
 ## 🎓 References
 
-- [YOLOv11 Documentation](https://docs.ultralytics.com/models/yolov11/)
-- [SAM 2: Segment Anything Model 2](https://github.com/facebookresearch/sam2)
-- [YOLO Format Specification](https://docs.ultralytics.com/datasets/detect/)
-- [ONNX Format](https://onnx.ai/)
 
 ## 🙏 Acknowledgments
 
-- **Industrial Product Dataset**: Video source from [Taka Soyama](https://www.pexels.com/@takasoyama/) on Pexels - [Packaged Goods in Industrial Line](https://www.pexels.com/video/packaged-goods-in-industrial-line-6444196/). Special thanks for providing the raw footage used in this project's demonstration.
+
 
