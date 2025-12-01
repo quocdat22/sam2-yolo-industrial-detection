@@ -116,17 +116,8 @@ Video displaying detection bounding boxes - YOLOv11 model detects industrial pro
 
 #### 📊 Counting & Tracking
 Video with object counting and tracking - monitor product quantities across frames and count total detected products.
-
-
-https://github.com/user-attachments/assets/c400e5e7-d652-4767-b8e3-a043d691ae5c
-
-
 <p align="center">
-	<a href="assets/inference_counting_tracking.mp4">
-		<img src="https://img.shields.io/badge/▶_Watch_Counting_Tracking_Demo-000000?style=for-the-badge&logo=video" alt="Watch Counting Tracking Demo"/>
-	</a>
-	<br><br>
-	<video src="assets/inference_counting_tracking.mp4" width="800" autoplay loop muted playsinline></video>
+	https://github.com/user-attachments/assets/c400e5e7-d652-4767-b8e3-a043d691ae5c
 </p>
 
 ## 📝 License
