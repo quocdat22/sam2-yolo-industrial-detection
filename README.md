@@ -105,14 +105,7 @@ Train different YOLO model variants using the auto-generated dataset.
 #### 🎯 Detection - Bounding Boxes
 Video displaying detection bounding boxes - YOLOv11 model detects industrial products with bounding boxes and confidence scores.
 
-<p align="center">
-	<a href="https://github.com/user-attachments/assets/dedf6d15-d5c4-458b-b27f-e14dd0ee1201">
-		<img src="https://img.shields.io/badge/▶_Watch_Detection_Demo-000000?style=for-the-badge&logo=video" alt="Watch Detection Demo"/>
-	</a>
-	<br><br>
-	<video src="[assets/inference_detected.mp4](https://github.com/user-attachments/assets/dedf6d15-d5c4-458b-b27f-e14dd0ee1201)" width="800" autoplay loop muted playsinline></video>
-</p>
-
+https://github.com/user-attachments/assets/fd112ef1-342d-4998-b609-31af2f5c2664
 
 #### 📊 Counting & Tracking
 Video with object counting and tracking - monitor product quantities across frames and count total detected products.
