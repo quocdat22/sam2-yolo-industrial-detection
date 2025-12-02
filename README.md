@@ -115,9 +115,8 @@ https://github.com/user-attachments/assets/c400e5e7-d652-4767-b8e3-a043d691ae5c
 ## License
 
 This project uses:
-
-Ensure compliance with respective licenses for your use case.
-
+- **YOLOv11**: Ultralytics (AGPL-3.0)
+- **SAM 2**: Meta (Apache 2.0)
 
 
 ## References
